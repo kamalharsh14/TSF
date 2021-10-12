@@ -1,14 +1,14 @@
     .background {
         background-image: url("bg1.png");
-        background-repeat: no-repeat;
-        background-size: cover;
-        background-position: top;
-        /*  background-repeat: repeat;
+        /* background-repeat: no-repeat;
+        background-size:;
+        background-position: top; */
+        background-repeat: repeat;
         -webkit-background-size: cover;
         -moz-background-size: cover;
         -o-background-size: cover;
         background-size: cover;
-        background-position: center; */
+        background-position: center;
     }
     
     .card {
