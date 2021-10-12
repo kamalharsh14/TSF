@@ -1,5 +1,17 @@
-.background {
-    background-image: url("bg1.png");
-    background-size: 100% 100%;
-    background-repeat: repeat;
-}
+    .background {
+        background-image: url("bg1.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: top;
+        /* background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-position: center; */
+    }
+    
+    .login {
+        background-color: rgba(155, 155, 155, 0.438);
+        background-position: center;
+    }
