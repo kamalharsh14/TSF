@@ -1,0 +1,135 @@
+    .background {
+        background-image: url("bg.png");
+        /* background-repeat: no-repeat;
+        background-size: cover;
+        background-position: top; */
+        background-repeat: no-repeat;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+        background-position: center;
+    }
+    
+    .login {
+        padding: 4% 5% 4% 5%;
+        background-color: rgba(0, 0, 0, 0.301);
+        background-position: center;
+        border: 4px;
+        border-color: rgba(0, 0, 0, 0.301);
+        border-radius: 19px;
+    }
+    
+    .signup {
+        padding: 1% 5% 2% 5%;
+        background-color: rgba(0, 0, 0, 0.301);
+        background-position: center;
+        border: 4px;
+        border-color: rgba(0, 0, 0, 0.301);
+        border-radius: 19px;
+    }
+    
+    @media only screen and (max-width: 300px) {
+        .heading .content {
+            margin: 40px 0 30px 0;
+            text-align: var(--centerAlign);
+        }
+        .heading .content h1 {
+            text-align: var(--centerAlign);
+        }
+        .img-div {
+            margin-bottom: 10px;
+        }
+        .img-head {
+            max-width: 100%;
+            margin-top: 70px;
+            margin-left: 0%;
+        }
+        /* ACCOUNT PAGE */
+        table {
+            text-align: var(--centerAlign);
+        }
+        .data,
+        .transferForm {
+            cursor: pointer;
+            text-align: var(--centerAlign);
+        }
+    }
+    
+    @media only screen and (max-width: 400px) {
+        .heading .content {
+            margin: 40px 0 30px 0;
+            text-align: var(--centerAlign);
+        }
+        .heading .content h1 {
+            text-align: var(--centerAlign);
+        }
+        .img-div {
+            margin-bottom: 10px;
+        }
+        .img-head {
+            max-width: 100%;
+            margin-top: 70px;
+            margin-left: 0%;
+        }
+        /* ACCOUNT PAGE */
+        table {
+            text-align: var(--centerAlign);
+        }
+        .data,
+        .transferForm {
+            cursor: pointer;
+            text-align: var(--centerAlign);
+        }
+    }
+    
+    @media only screen and (max-width: 800px) {
+        .heading .content {
+            margin: 40px 0 30px 0;
+            text-align: var(--centerAlign);
+        }
+        .heading .content h1 {
+            text-align: var(--centerAlign);
+        }
+        .img-div {
+            margin-bottom: 10px;
+        }
+        .img-head {
+            max-width: 100%;
+            margin-top: 70px;
+            margin-left: 0%;
+        }
+        /* ACCOUNT PAGE */
+        table {
+            text-align: var(--centerAlign);
+        }
+        .data,
+        .transferForm {
+            cursor: pointer;
+            text-align: var(--centerAlign);
+        }
+    }
+    
+    @media only screen and (max-width: 300px) {
+        body {
+            height: 100vh;
+        }
+    }
+    
+    @media only screen and (max-width: 400px) {
+        body {
+            height: 100vh;
+        }
+    }
+    
+    @media only screen and (max-width: 800px) {
+        body {
+            height: 100vh;
+        }
+    }
+    
+    @media only screen and (max-width: 1200px) {
+        body {
+            height: 100vh;
+        }
+    }
