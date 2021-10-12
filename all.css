@@ -8,6 +8,10 @@
         background-position: center;
     }
     
+    .bg-custom {
+        background-color: #00000049;
+    }
+    
     .card {
         margin: 15px;
     }
