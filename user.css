@@ -1,5 +1,5 @@
     .background {
-        background-image: url("bg1.png");
+        background-image: url("bg.png");
         /* background-repeat: no-repeat;
         background-size: cover;
         background-position: top; */
@@ -13,18 +13,18 @@
     
     .login {
         padding: 4% 5% 4% 5%;
-        background-color: rgba(155, 155, 155, 0.438);
+        background-color: rgba(0, 0, 0, 0.301);
         background-position: center;
         border: 4px;
-        border-color: rgba(155, 155, 155, 0.438);
+        border-color: rgba(0, 0, 0, 0.301);
         border-radius: 19px;
     }
     
     .signup {
         padding: 1% 5% 2% 5%;
-        background-color: rgba(155, 155, 155, 0.438);
+        background-color: rgba(0, 0, 0, 0.301);
         background-position: center;
         border: 4px;
-        border-color: rgba(155, 155, 155, 0.438);
+        border-color: rgba(0, 0, 0, 0.301);
         border-radius: 19px;
     }
