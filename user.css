@@ -12,6 +12,10 @@
     }
     
     .login {
+        padding: 4% 5% 4% 5%;
         background-color: rgba(155, 155, 155, 0.438);
         background-position: center;
+        border: 4px;
+        border-color: rgba(155, 155, 155, 0.438);
+        border-radius: 19px;
     }
