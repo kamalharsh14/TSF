@@ -11,6 +11,10 @@
         background-position: center;
     }
     
+    .navbar-custom {
+        color: black;
+    }
+    
     .login {
         padding: 4% 5% 4% 5%;
         background-color: rgba(0, 0, 0, 0.301);
