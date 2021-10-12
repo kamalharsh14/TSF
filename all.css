@@ -3,12 +3,26 @@
         /* background-repeat: no-repeat;
         background-size: cover;
         background-position: top; */
-        background-repeat: no-repeat;
+        background-repeat: repeat;
         -webkit-background-size: cover;
         -moz-background-size: cover;
         -o-background-size: cover;
         background-size: cover;
         background-position: center;
+    }
+    
+    .card {
+        margin: 15px;
+    }
+    
+    .bg-custom1 {
+        color: white;
+        background-color: #303d44d3;
+    }
+    
+    .bg-custom2 {
+        color: white;
+        background-color: #193341dc;
     }
     
     .navbar-custom {
