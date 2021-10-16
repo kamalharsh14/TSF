@@ -8,8 +8,17 @@
         background-position: center;
     }
     
+    .bg-transaction {
+        background-color: rgba(0, 0, 0, 0.301);
+        background-position: center;
+        border: 4px;
+        border-color: rgba(0, 0, 0, 0.301);
+        border-radius: 19px;
+        color: white;
+    }
+    
     .bg-custom {
-        background-color: #00000028;
+        background-color: rgba(0, 0, 0, 0.301);
     }
     
     .card {
