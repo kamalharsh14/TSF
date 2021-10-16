@@ -47,7 +47,7 @@ const showAmount = () => {
     if (moneyObj.length != 0) {
         notesElm.innerHTML = html;
     } else {
-        notesElm.innerHTML = `No Transation.`;
+        notesElm.innerHTML = `No Transations to show.`;
     }
 };
 
